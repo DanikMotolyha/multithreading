@@ -1,0 +1,123 @@
+2021-06-22 00:49:05,224 INFO b.m.m.e.Pier [pool-3-thread-8] pier load ship by id:0
+2021-06-22 00:49:09,777 INFO b.m.m.e.Pier [pool-3-thread-9] pier load ship by id:0
+2021-06-22 00:49:10,466 INFO b.m.m.e.Pier [pool-3-thread-10] pier load ship by id:0
+2021-06-22 00:49:10,545 INFO b.m.m.e.Pier [pool-3-thread-6] pier load ship by id:0
+2021-06-22 00:49:13,190 INFO b.m.m.e.Pier [pool-3-thread-7] pier load ship by id:0
+2021-06-22 00:49:13,596 INFO b.m.m.e.Pier [pool-3-thread-5] pier load ship by id:0
+2021-06-22 00:49:13,746 INFO b.m.m.e.Pier [pool-3-thread-4] pier load ship by id:0
+2021-06-22 00:49:17,224 INFO b.m.m.e.Pier [pool-3-thread-3] pier load ship by id:0
+2021-06-22 00:49:20,701 INFO b.m.m.e.Pier [pool-3-thread-1] pier load ship by id:0
+2021-06-22 00:49:22,539 INFO b.m.m.e.Pier [pool-3-thread-2] pier load ship by id:0
+2021-06-22 00:51:31,290 INFO b.m.m.e.Pier [pool-3-thread-10] pier load ship by id:0
+2021-06-22 00:51:31,554 INFO b.m.m.e.Pier [pool-3-thread-1] pier load ship by id:0
+2021-06-22 00:51:32,093 INFO b.m.m.e.Pier [pool-3-thread-6] pier load ship by id:0
+2021-06-22 00:51:34,898 INFO b.m.m.e.Pier [pool-3-thread-4] pier load ship by id:0
+2021-06-22 00:51:36,512 INFO b.m.m.e.Pier [pool-3-thread-7] pier load ship by id:0
+2021-06-22 00:51:37,264 INFO b.m.m.e.Pier [pool-3-thread-2] pier load ship by id:0
+2021-06-22 00:51:37,474 INFO b.m.m.e.Pier [pool-3-thread-5] pier load ship by id:0
+2021-06-22 00:51:37,662 INFO b.m.m.e.Pier [pool-3-thread-8] pier load ship by id:0
+2021-06-22 00:52:40,185 INFO b.m.m.e.Pier [pool-3-thread-5] pier load ship by id:0
+2021-06-22 00:52:40,307 INFO b.m.m.e.Pier [pool-3-thread-3] pier load ship by id:0
+2021-06-22 00:52:41,745 INFO b.m.m.e.Pier [pool-3-thread-4] pier load ship by id:0
+2021-06-22 00:52:41,796 INFO b.m.m.e.Pier [pool-3-thread-1] pier load ship by id:0
+2021-06-22 00:52:43,910 INFO b.m.m.e.Pier [pool-3-thread-7] pier load ship by id:0
+2021-06-22 00:52:44,625 INFO b.m.m.e.Pier [pool-3-thread-9] pier load ship by id:0
+2021-06-22 00:52:45,021 INFO b.m.m.e.Pier [pool-3-thread-10] pier load ship by id:0
+2021-06-22 00:52:48,775 INFO b.m.m.e.Pier [pool-3-thread-2] pier load ship by id:0
+2021-06-22 00:52:52,906 INFO b.m.m.e.Pier [pool-3-thread-6] pier load ship by id:0
+2021-06-22 00:52:53,259 INFO b.m.m.e.Pier [pool-3-thread-8] pier load ship by id:0
+2021-06-22 00:54:05,370 INFO b.m.m.e.Pier [pool-3-thread-10] pier load ship by id:0
+2021-06-22 00:54:05,550 INFO b.m.m.e.Pier [pool-3-thread-5] pier load ship by id:0
+2021-06-22 00:54:06,727 INFO b.m.m.e.Pier [pool-3-thread-7] pier load ship by id:0
+2021-06-22 00:54:08,350 INFO b.m.m.e.Pier [pool-3-thread-4] pier load ship by id:0
+2021-06-22 00:54:09,838 INFO b.m.m.e.Pier [pool-3-thread-1] pier load ship by id:0
+2021-06-22 00:59:52,507 INFO b.m.m.e.Pier [pool-3-thread-9] pier load ship by id:0
+2021-06-22 00:59:53,539 INFO b.m.m.e.Pier [pool-3-thread-6] pier load ship by id:0
+2021-06-22 00:59:54,983 INFO b.m.m.e.Pier [pool-3-thread-2] pier load ship by id:0
+2021-06-22 00:59:54,999 INFO b.m.m.e.Pier [pool-3-thread-10] pier load ship by id:0
+2021-06-22 01:03:18,398 INFO b.m.m.e.Pier [pool-3-thread-5] pier load ship by id:0
+2021-06-22 01:03:18,398 INFO b.m.m.e.Pier [pool-3-thread-2] pier load ship by id:0
+2021-06-22 01:03:18,398 INFO b.m.m.e.Pier [pool-3-thread-4] pier load ship by id:0
+2021-06-22 01:04:04,066 INFO b.m.m.e.Pier [pool-3-thread-4] pier load ship by id:0
+2021-06-22 01:04:04,066 INFO b.m.m.e.Pier [pool-3-thread-6] pier load ship by id:0
+2021-06-22 01:04:04,066 INFO b.m.m.e.Pier [pool-3-thread-10] pier load ship by id:0
+2021-06-22 01:04:06,072 INFO b.m.m.e.Pier [pool-3-thread-8] pier load ship by id:0
+2021-06-22 01:04:06,072 INFO b.m.m.e.Pier [pool-3-thread-1] pier load ship by id:0
+2021-06-22 01:04:06,072 INFO b.m.m.e.Pier [pool-3-thread-7] pier load ship by id:0
+2021-06-22 01:04:08,080 INFO b.m.m.e.Pier [pool-3-thread-9] pier load ship by id:0
+2021-06-22 01:04:08,080 INFO b.m.m.e.Pier [pool-3-thread-5] pier load ship by id:0
+2021-06-22 01:04:08,080 INFO b.m.m.e.Pier [pool-3-thread-2] pier load ship by id:0
+2021-06-22 01:04:10,092 INFO b.m.m.e.Pier [pool-3-thread-3] pier load ship by id:0
+2021-06-22 01:04:56,326 INFO b.m.m.e.Pier [pool-3-thread-1] pier load ship by id:10
+2021-06-22 01:05:24,692 INFO b.m.m.e.Pier [pool-3-thread-2] pier load ship by id:12
+2021-06-22 01:05:24,692 INFO b.m.m.e.Pier [pool-3-thread-1] pier load ship by id:10
+2021-06-22 01:05:59,795 INFO b.m.m.e.Pier [pool-3-thread-4] pier load ship by id:0
+2021-06-22 01:05:59,795 INFO b.m.m.e.Pier [pool-3-thread-3] pier load ship by id:0
+2021-06-22 01:05:59,795 INFO b.m.m.e.Pier [pool-3-thread-9] pier load ship by id:0
+2021-06-22 01:06:01,810 INFO b.m.m.e.Pier [pool-3-thread-2] pier load ship by id:0
+2021-06-22 01:06:01,810 INFO b.m.m.e.Pier [pool-3-thread-1] pier load ship by id:0
+2021-06-22 01:06:01,810 INFO b.m.m.e.Pier [pool-3-thread-10] pier load ship by id:0
+2021-06-22 01:06:03,815 INFO b.m.m.e.Pier [pool-3-thread-5] pier load ship by id:0
+2021-06-22 01:06:03,815 INFO b.m.m.e.Pier [pool-3-thread-6] pier load ship by id:0
+2021-06-22 01:06:03,815 INFO b.m.m.e.Pier [pool-3-thread-7] pier load ship by id:0
+2021-06-22 01:06:05,823 INFO b.m.m.e.Pier [pool-3-thread-8] pier load ship by id:0
+2021-06-22 01:09:00,237 INFO b.m.m.e.Ship [pool-3-thread-1] ship id: 0 go to port by id 1
+2021-06-22 01:09:00,237 INFO b.m.m.e.Ship [pool-3-thread-4] ship id: 0 go to port by id 0
+2021-06-22 01:09:00,237 INFO b.m.m.e.Ship [pool-3-thread-5] ship id: 0 go to port by id 2
+2021-06-22 01:09:02,255 INFO b.m.m.e.Pier [pool-3-thread-5] pier load ship by id:0 containers (34)
+2021-06-22 01:09:02,255 INFO b.m.m.e.Pier [pool-3-thread-4] pier load ship by id:0 containers (11)
+2021-06-22 01:09:02,255 INFO b.m.m.e.Pier [pool-3-thread-1] pier load ship by id:0 containers (12)
+2021-06-22 01:09:02,257 INFO b.m.m.e.Ship [pool-3-thread-10] ship id: 0 go to port by id 2
+2021-06-22 01:09:02,258 INFO b.m.m.e.Ship [pool-3-thread-6] ship id: 0 go to port by id 1
+2021-06-22 01:09:02,257 INFO b.m.m.e.Ship [pool-3-thread-9] ship id: 0 go to port by id 0
+2021-06-22 01:09:04,270 INFO b.m.m.e.Pier [pool-3-thread-10] pier load ship by id:0 containers (54)
+2021-06-22 01:09:04,270 INFO b.m.m.e.Pier [pool-3-thread-9] pier load ship by id:0 containers (34)
+2021-06-22 01:09:04,270 INFO b.m.m.e.Pier [pool-3-thread-6] pier load ship by id:0 containers (55)
+2021-06-22 01:09:04,270 INFO b.m.m.e.Ship [pool-3-thread-7] ship id: 0 go to port by id 2
+2021-06-22 01:09:04,271 INFO b.m.m.e.Ship [pool-3-thread-2] ship id: 0 go to port by id 0
+2021-06-22 01:09:04,271 INFO b.m.m.e.Ship [pool-3-thread-8] ship id: 0 go to port by id 1
+2021-06-22 01:09:06,272 INFO b.m.m.e.Pier [pool-3-thread-7] pier load ship by id:0 containers (66)
+2021-06-22 01:09:06,272 INFO b.m.m.e.Pier [pool-3-thread-8] pier load ship by id:0 containers (4)
+2021-06-22 01:09:06,272 INFO b.m.m.e.Pier [pool-3-thread-2] pier load ship by id:0 containers (23)
+2021-06-22 01:09:06,273 INFO b.m.m.e.Ship [pool-3-thread-3] ship id: 0 go to port by id 2
+2021-06-22 01:09:08,274 INFO b.m.m.e.Pier [pool-3-thread-3] pier load ship by id:0 containers (4)
+2021-06-22 01:10:02,048 INFO b.m.m.e.Ship [pool-3-thread-10] ship id: 10 go to port by id 1
+2021-06-22 01:10:02,048 INFO b.m.m.e.Ship [pool-3-thread-1] ship id: 1 go to port by id 0
+2021-06-22 01:10:02,048 INFO b.m.m.e.Ship [pool-3-thread-3] ship id: 3 go to port by id 2
+2021-06-22 01:10:04,075 INFO b.m.m.e.Pier [pool-3-thread-3] pier load ship by id:3 containers (4)
+2021-06-22 01:10:04,077 INFO b.m.m.e.Pier [pool-3-thread-1] pier load ship by id:1 containers (12)
+2021-06-22 01:10:04,082 INFO b.m.m.e.Pier [pool-3-thread-10] pier load ship by id:10 containers (54)
+2021-06-22 01:10:04,084 INFO b.m.m.e.Ship [pool-3-thread-5] ship id: 5 go to port by id 2
+2021-06-22 01:10:04,085 INFO b.m.m.e.Ship [pool-3-thread-4] ship id: 4 go to port by id 0
+2021-06-22 01:10:04,086 INFO b.m.m.e.Ship [pool-3-thread-8] ship id: 8 go to port by id 1
+2021-06-22 01:10:06,107 INFO b.m.m.e.Pier [pool-3-thread-5] pier load ship by id:5 containers (34)
+2021-06-22 01:10:06,107 INFO b.m.m.e.Pier [pool-3-thread-8] pier load ship by id:8 containers (4)
+2021-06-22 01:10:06,108 INFO b.m.m.e.Ship [pool-3-thread-6] ship id: 6 go to port by id 2
+2021-06-22 01:10:06,108 INFO b.m.m.e.Pier [pool-3-thread-4] pier load ship by id:4 containers (11)
+2021-06-22 01:10:06,108 INFO b.m.m.e.Ship [pool-3-thread-7] ship id: 7 go to port by id 1
+2021-06-22 01:10:06,110 INFO b.m.m.e.Ship [pool-3-thread-2] ship id: 2 go to port by id 0
+2021-06-22 01:10:06,441 INFO b.m.m.e.Ship [pool-3-thread-2] ship id: 2 go to port by id 0
+2021-06-22 01:10:06,441 INFO b.m.m.e.Ship [pool-3-thread-4] ship id: 4 go to port by id 2
+2021-06-22 01:10:06,441 INFO b.m.m.e.Ship [pool-3-thread-3] ship id: 3 go to port by id 1
+2021-06-22 01:10:08,121 INFO b.m.m.e.Pier [pool-3-thread-2] pier load ship by id:2 containers (23)
+2021-06-22 01:10:08,122 INFO b.m.m.e.Ship [pool-3-thread-9] ship id: 9 go to port by id 0
+2021-06-22 01:10:08,122 INFO b.m.m.e.Pier [pool-3-thread-6] pier load ship by id:6 containers (55)
+2021-06-22 01:10:08,122 INFO b.m.m.e.Pier [pool-3-thread-7] pier load ship by id:7 containers (66)
+2021-06-22 01:10:08,469 INFO b.m.m.e.Pier [pool-3-thread-4] pier load ship by id:4 containers (11)
+2021-06-22 01:10:08,469 INFO b.m.m.e.Pier [pool-3-thread-3] pier load ship by id:3 containers (4)
+2021-06-22 01:10:08,469 INFO b.m.m.e.Pier [pool-3-thread-2] pier load ship by id:2 containers (23)
+2021-06-22 01:10:08,472 INFO b.m.m.e.Ship [pool-3-thread-8] ship id: 8 go to port by id 1
+2021-06-22 01:10:08,472 INFO b.m.m.e.Ship [pool-3-thread-1] ship id: 1 go to port by id 2
+2021-06-22 01:10:08,472 INFO b.m.m.e.Ship [pool-3-thread-6] ship id: 6 go to port by id 0
+2021-06-22 01:10:10,126 INFO b.m.m.e.Pier [pool-3-thread-9] pier load ship by id:9 containers (34)
+2021-06-22 01:10:10,482 INFO b.m.m.e.Pier [pool-3-thread-6] pier load ship by id:6 containers (55)
+2021-06-22 01:10:10,482 INFO b.m.m.e.Pier [pool-3-thread-1] pier load ship by id:1 containers (12)
+2021-06-22 01:10:10,482 INFO b.m.m.e.Pier [pool-3-thread-8] pier load ship by id:8 containers (4)
+2021-06-22 01:10:10,483 INFO b.m.m.e.Ship [pool-3-thread-10] ship id: 10 go to port by id 2
+2021-06-22 01:10:10,483 INFO b.m.m.e.Ship [pool-3-thread-5] ship id: 5 go to port by id 0
+2021-06-22 01:10:10,483 INFO b.m.m.e.Ship [pool-3-thread-9] ship id: 9 go to port by id 1
+2021-06-22 01:10:12,492 INFO b.m.m.e.Pier [pool-3-thread-9] pier load ship by id:9 containers (34)
+2021-06-22 01:10:12,492 INFO b.m.m.e.Pier [pool-3-thread-5] pier load ship by id:5 containers (34)
+2021-06-22 01:10:12,492 INFO b.m.m.e.Pier [pool-3-thread-10] pier load ship by id:10 containers (54)
+2021-06-22 01:10:12,493 INFO b.m.m.e.Ship [pool-3-thread-7] ship id: 7 go to port by id 1
+2021-06-22 01:10:14,501 INFO b.m.m.e.Pier [pool-3-thread-7] pier load ship by id:7 containers (66)
